@@ -18,3 +18,11 @@
 - USB-C side gap: 9.056 mm from the placeholder end face to the inside wall.
 - Lid clearance: 22.000 mm from the placeholder top to the flat underside of the lid, before mounting posts.
 - Pending: confirm the physical board and cable dimensions before adding mounting posts or the USB-C cutout.
+
+### Follower ArM Side Layout
+![Follower arm side layout](./follower-arm-side-layout.png)
+- Upper arm: 100 mm from shoulder to elbow.
+- Forearm: 90 mm from elbow to gripper.
+- Shoulder height: 47.275 mm above the sketched base top.
+- Shoulder-to-gripper distance: 172.959 mm in the pose shown, or 190 mm with both links straight.
+- Dimensions are provisional.
