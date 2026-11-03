@@ -10,3 +10,11 @@
 | Base servo | DS3218 | TBD | TBD | TBD | TBD | Previously proposed, confirmation TBD |
 | Wiring board | Small breadboard with power rails or custom PCB | TBD | TBD | TBD | TBD | Choice TBD |
 | Power supply | TBD | TBD | TBD | TBD | TBD | Model and placement TBD |
+
+### Enclosure CAD progress
+
+![Open enclosure with the UNO R4 Minima placeholder](./mirrormotion-enclosure-open.png)
+
+- USB-C side gap: 9.056 mm from the placeholder end face to the inside wall.
+- Lid clearance: 22.000 mm from the placeholder top to the flat underside of the lid, before mounting posts.
+- Pending: confirm the physical board and cable dimensions before adding mounting posts or the USB-C cutout.
