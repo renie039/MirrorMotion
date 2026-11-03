@@ -1,0 +1,3 @@
+- [x] Add Scoch’s servo links
+- [ ] Confirm the base servo
+- [ ] Check Arduino fit in Onshape
