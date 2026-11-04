@@ -10,6 +10,7 @@
 | Base servo | TD8320MG | 40.6 x 20.4 x 39mm | TBD | TBD | [RobotStore TD8320MG](https://www.robotstore.it/Servo-digitale-standard-TD8320MG-20KG-Waterproof) | Proposed by Scoch |
 | Wiring board | Small breadboard with power rails or custom PCB | TBD | TBD | TBD | TBD | Choice TBD |
 | Power supply | TBD | TBD | TBD | TBD | TBD | Model and placement TBD |
+| Cooling fans (2) | Brushless fan; exact model TBD | TBD | TBD | Wire clearance TBD | [AliExpress listing](https://www.aliexpress.us/item/3256809779765997.html) | Proposed by Scoch; one per side; size and voltage pending |
 
 ### Enclosure CAD progress
 
