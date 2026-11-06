@@ -46,3 +46,8 @@
 - Scoch intends the upper arm to attach to the horizontal shoulder tube.
 - Pending: bearing arrangement, servo drive connections, arm attachment details, and connection to the electronics enclosure.
 - Model is preliminary and has not been physically tested.
+
+- Electronics enclosure outer footprint: 100 × 120 mm.
+- Scoch's circular base is approximately 120 mm in diameter, assuming the STL units are millimeters.
+- If centered above the enclosure, it would overhang the 100 mm side by approximately 10 mm on each side.
+- Connection between the two housings is pending clarification with Scoch.
