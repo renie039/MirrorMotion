@@ -36,3 +36,13 @@
 - Reported torque at 4.8 V: 17.2 kg·cm.
 - Scoch proposed two brushless cooling fans, one on each side of the enclosure.
 - Pending for CAD: servo mounting-hole dimensions, shaft position, and fan dimensions.
+
+### Base and shoulder concept from Scoch
+
+[Download Scoch's preliminary STL](./base-shoulder_sketch.stl)
+
+- Scoch created a preliminary circular housing, top platform, and shoulder joint model.
+- Intended motions include base rotation and shoulder lifting.
+- Scoch intends the upper arm to attach to the horizontal shoulder tube.
+- Pending: bearing arrangement, servo drive connections, arm attachment details, and connection to the electronics enclosure.
+- Model is preliminary and has not been physically tested.
