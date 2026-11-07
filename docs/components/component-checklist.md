@@ -66,9 +66,9 @@
 - Pending: verified component clearances, mounting features, connector access, airflow openings, and wiring space.
 - Design is only provisional and has not been physically tested.
 
-![Electronics enclosure v2 — open](./electronics-enclosure-v2-open.png)
+![Electronics enclosure v2 — open](./electronics-enclosure-v2-open.jpg)
 
-![Electronics enclosure v2 — closed](./electronics-enclosure-v2-closed.png)
+![Electronics enclosure v2 — closed](./electronics-enclosure-v2-closed.jpg)
 
 ### Base and shoulder concept v2 — Scoch
 
