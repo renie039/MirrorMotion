@@ -1,6 +1,6 @@
 - [x] Add Scoch’s servo links
 - [x] Confirm the base servo
-- [ ] Check Arduino fit in Onshape
+- [x] Check Arduino fit in Onshape
 
 | Component | Model | Dimensions (mm) | Mounting holes | Plug and wire space | Source | Status |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -12,7 +12,7 @@
 | Power supply | TBD | TBD | TBD | TBD | TBD | Model and placement TBD |
 | Cooling fans (2) | 5015 centrifugal blower | 50 × 50 × 15 | TBD | Space for wires, air inlet, and outlet needed | [AliExpress listing](https://www.aliexpress.us/item/3256809779765997.html) | Proposed by Scoch; voltage option and mounting-hole spacing pending |
 
-### Enclosure CAD progress
+### Enclosure CAD progress - Irene
 
 ![Open enclosure with the UNO R4 Minima placeholder](./mirrormotion-enclosure-open.png)
 
@@ -20,7 +20,7 @@
 - Lid clearance: 22.000 mm from the placeholder top to the flat underside of the lid, before mounting posts.
 - Pending: confirm the physical board and cable dimensions before adding mounting posts or the USB-C cutout.
 
-### Follower Arm Side Layout
+### Follower Arm Side Layout - Irene
 ![Follower arm side layout](./follower-arm-side-layout.png)
 - Upper arm: 100 mm from shoulder to elbow.
 - Forearm: 90 mm from elbow to gripper.
@@ -28,7 +28,7 @@
 - Shoulder-to-gripper distance: 172.959 mm in the pose shown, or 190 mm with both links straight.
 - Dimensions are provisional.
 
-### Electronics update from Scoch
+### Electronics update - Scoch
 
 - Proposed base servo: TD8320MG.
 - Servo body dimensions reported by Scoch: 40.6 × 20.4 × 39 mm.
@@ -37,7 +37,7 @@
 - Scoch proposed two brushless cooling fans, one on each side of the enclosure.
 - Pending for CAD: servo mounting-hole dimensions, shaft position, and fan dimensions.
 
-### Base and shoulder concept from Scoch
+### Base and shoulder concept - Scoch
 
 [Download Scoch's preliminary STL](./base-shoulder_sketch.stl)
 
@@ -51,3 +51,34 @@
 - Scoch's circular base is approximately 120 mm in diameter, assuming the STL units are millimeters.
 - If centered above the enclosure, it would overhang the 100 mm side by approximately 10 mm on each side.
 - Connection between the two housings is pending clarification with Scoch.
+
+### Electronics enclosure v2 — Irene
+
+- Enlarged enclosure to 140 × 140 × 40 mm.
+- Wall and floor thickness: 3 mm.
+- Nominal interior dimensions: 134 × 134 × 37 mm.
+- Updated lid to match the enlarged enclosure.
+- Layout includes an Arduino UNO R4 Minima placeholder and two fan placeholders.
+- Arduino UNO R4 Minima placeholder: 68.58 x 53.34 x 15 mm (15mm height may change)
+- Planned fans: 5 V blowers with dimensions of 50 × 50 × 15 mm each; voltage confirmed by Scoch.
+- Fan placeholders represent rectangular envelopes rather than the exact curved housings.
+- Spacing: 5 mm between wall and Arduino, 5 mm between wall and fan, 5.42 mm between Arduino and fan/s
+- Pending: verified component clearances, mounting features, connector access, airflow openings, and wiring space.
+- Design is only provisional and has not been physically tested.
+
+![Electronics enclosure v2 — open](./electronics-enclosure-v2-open.png)
+
+![Electronics enclosure v2 — closed](./electronics-enclosure-v2-closed.png)
+
+### Base and shoulder concept v2 — Scoch
+
+[View the second mechanism concept STL](./base-shoulder-concept-v2.stl)
+
+- Scoch supplied an updated circular base and shoulder concept with an apparent upper-arm segment.
+- Scoch confirmed that the circular mechanism sits above the electronics enclosure and the base rotates left/right.
+- The shoulder is intended to move the arm up/down.
+- Overall STL dimensions measure approximately 150 × 150 × 201 mm, assuming millimeter units.
+- Circular base diameter measures approximately 150 mm; final dimensions await confirmation from Scoch.
+- Centered on the 140 × 140 mm enclosure, this would produce approximately 5 mm of overhang on each side.
+- Pending: motor and bearing arrangements, arm connections, attachment to the enclosure lid, and wire passage locations.
+- Model remains a preliminary concept and has not been physically tested.
