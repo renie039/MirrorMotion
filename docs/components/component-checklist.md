@@ -94,3 +94,18 @@
 - Scoch proposed routing wires through an opening behind the shoulder.
 - Exact attachment method, mounting dimensions, wire-opening size, and clearance during rotation remain unresolved.
 - Model is preliminary and has not been physically tested.
+
+### Arduino support posts draft - Irene
+
+- Added four support posts to the electronics enclosure floor.
+- Post centers follow the mounting-hole locations in the official Arduino UNO R4 Minima mechanical drawing.
+- Draft post dimensions: 6 mm diameter × 5 mm height.
+- Raised the Arduino placeholder to rest on the posts.
+- Posts are currently solid; screw holes will be added after selecting screws or threaded inserts.
+- Final fit, underside clearance, and access around nearby board components still require verification.
+- Saved an Onshape version as a design checkpoint and shared the public document with Scoch for review.
+
+![Draft Arduino support posts](./arduino-support-posts-v1.png)
+[View the editable CAD source in Onshape](PASTE_YOUR_ONSHAPE_LINK_HERE)
+
+Public viewing is available; editing requires permission.
