@@ -82,3 +82,15 @@
 - Centered on the 140 × 140 mm enclosure, this would produce approximately 5 mm of overhang on each side.
 - Pending: motor and bearing arrangements, arm connections, attachment to the enclosure lid, and wire passage locations.
 - Model remains a preliminary concept and has not been physically tested.
+
+### Base, shoulder, and elbow concept v3 — Scoch
+
+[View the third mechanism concept](./base-shoulder-concept-v3.stl)
+
+- Updated concept includes an elbow joint and forearm segment.
+- Gripper design is still pending.
+- Overall model bounds are approximately 245 × 150 × 201 mm in the exported pose, assuming millimeter units.
+- These overall dimensions include the extended arm; they are not the base diameter.
+- Scoch proposed routing wires through an opening behind the shoulder.
+- Exact attachment method, mounting dimensions, wire-opening size, and clearance during rotation remain unresolved.
+- Model is preliminary and has not been physically tested.
